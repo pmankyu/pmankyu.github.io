@@ -10,7 +10,7 @@ Nice Blog  [![Build Status](https://img.shields.io/badge/build-passing-green.svg
 
 A Simple Jekyll Blog Theme.
 
-[![Demo](https://img.shields.io/badge/Demo-Nice Blog-green.svg)](http://gabriel-chen.github.io/Nice_Blog)
+[Demo](http://gabriel-chen.github.io/Nice_Blog)
 
 ![index-page](https://i.imgur.com/BrmOMmv.png)
 
